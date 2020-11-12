@@ -5,7 +5,7 @@
 }
 #wiggly-boi:hover{
     cursor: pointer;
-    animation: shrink forwards infinite;
+    animation: shrink forwards infinite 2s;
 }
 @keyframes shrink{
     0% {
